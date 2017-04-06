@@ -1,0 +1,9 @@
+C:\Users\stdlib\documents\visual studio 2015\Projects\magnifier\magnifier\obj\Debug\magnifier.csprojResolveAssemblyReference.cache
+C:\Users\stdlib\documents\visual studio 2015\Projects\magnifier\magnifier\obj\Debug\Magnifier.Form1.resources
+C:\Users\stdlib\documents\visual studio 2015\Projects\magnifier\magnifier\obj\Debug\magnifier.Properties.Resources.resources
+C:\Users\stdlib\documents\visual studio 2015\Projects\magnifier\magnifier\obj\Debug\magnifier.csproj.GenerateResource.Cache
+C:\Users\stdlib\documents\visual studio 2015\Projects\magnifier\magnifier\bin\Debug\magnifier.exe.config
+C:\Users\stdlib\documents\visual studio 2015\Projects\magnifier\magnifier\bin\Debug\magnifier.exe
+C:\Users\stdlib\documents\visual studio 2015\Projects\magnifier\magnifier\bin\Debug\magnifier.pdb
+C:\Users\stdlib\documents\visual studio 2015\Projects\magnifier\magnifier\obj\Debug\magnifier.exe
+C:\Users\stdlib\documents\visual studio 2015\Projects\magnifier\magnifier\obj\Debug\magnifier.pdb
